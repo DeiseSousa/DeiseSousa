@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, Devs :v:
+Iniciando na área de programação, quero experimentar tudo que esse mundo pode me oferecer!
 <!--
 **DeiseSousa/DeiseSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
+
